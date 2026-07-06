@@ -1,2 +1,27 @@
 /* styles.css */
 
+.email {
+    color: #bc4040;
+    text-decoration: none;
+    font-size:30px; 
+}
+
+.bodytext {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.titles {
+    font-family: "Stack Sans Notch", sans-serif;
+    color: #5b79f0;
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-style: bold;
+}
+
+.bodytext {
+    font-family: "Lexend", sans-serif;
+    font-size: 16px;
+}
